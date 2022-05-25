@@ -1,0 +1,583 @@
+Uri: http://plastregal.md/css/final.css?398666816
+File Name: E:\sait practica\plastregal.md\css\final-4.css
+Content Type: text/css
+
+Uri: http://plastregal.md/img/logo.png
+File Name: E:\sait practica\plastregal.md\img\logo-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/img/logo_small.svg
+File Name: E:\sait practica\plastregal.md\img\logo_small-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/img/none.svg
+File Name: E:\sait practica\plastregal.md\img\none-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/img/snow.svg
+File Name: E:\sait practica\plastregal.md\img\snow-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/img/ventilation.svg
+File Name: E:\sait practica\plastregal.md\img\ventilation-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/img/volume1.svg
+File Name: E:\sait practica\plastregal.md\img\volume1-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/img/volume2.svg
+File Name: E:\sait practica\plastregal.md\img\volume2-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/img/volume3.svg
+File Name: E:\sait practica\plastregal.md\img\volume3-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/js/final.js?261233243
+File Name: E:\sait practica\plastregal.md\js\final-4.js
+Content Type: application/javascript
+
+Uri: http://plastregal.md/pic/advantages/1/life.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\1\life-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/pic/advantages/11/warranty_small.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\11\warranty_small-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/pic/advantages/12/protection2.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\12\protection2-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/pic/advantages/3/eco.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\3\eco-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/pic/advantages/7/protection2.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\7\protection2-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/pic/advantages/8/protection1.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\8\protection1-1.svg
+Content Type: image/svg+xml
+
+Uri: http://plastregal.md/pic/colors/228/0.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\228\0-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/229/1.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\229\1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/231/3.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\231\3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/233/5.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\233\5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/234/6.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\234\6.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/235/7.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\235\7.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/240/12.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\240\12-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/241/13.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\241\13-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/242/14.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\242\14-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/245/17.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\245\17-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/246/18.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\246\18-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/248/20.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\248\20.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/249/21.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\249\21-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/250/22.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\250\22-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/251/23.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\251\23-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/255/27.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\255\27-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/256/28.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\256\28-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/258/30.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\258\30.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/259/31.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\259\31.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/260/32.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\260\32-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/261/33.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\261\33-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/263/35.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\263\35.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/267/39.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\267\39.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/269/41.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\269\41.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/272/44.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\272\44.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/275/47.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\275\47.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/281/53.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\281\53.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/282/54.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\282\54.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/283/55.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\283\55-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/colors/286/58.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\286\58-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/pins/10/default/kbe.png
+File Name: E:\sait practica\plastregal.md\pic\pins\10\default\kbe-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/10/kbe_logo.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\10\kbe_logo-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/pins/11/default/media_share_0_02_04_4234092be25ce57fa7eb7fa503571c764a92828ff9b86de69ba3171f6dd02e95_59554830_44a2_44d6_9a87_eebc9ba12ccb.png
+File Name: E:\sait practica\plastregal.md\pic\pins\11\default\media_share_0_02_04_4234092be25ce57fa7eb7fa503571c764a92828ff9b86de69ba3171f6dd02e95_59554830_44a2_44d6_9a87_eebc9ba12ccb-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/11/thumb/Maco_logo.svg.png
+File Name: E:\sait practica\plastregal.md\pic\pins\11\thumb\Maco_logo.svg-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/14/default/media_share_0_02_04_48606480c113b4b297df3a1e384981c882f76c2239c46198b01aee5fc14cc42d_1a8d11b9_bb62_4437_8687_d9eb15c7f486.png
+File Name: E:\sait practica\plastregal.md\pic\pins\14\default\media_share_0_02_04_48606480c113b4b297df3a1e384981c882f76c2239c46198b01aee5fc14cc42d_1a8d11b9_bb62_4437_8687_d9eb15c7f486-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/14/thumb/kbe.png
+File Name: E:\sait practica\plastregal.md\pic\pins\14\thumb\kbe-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/15/Scurgere.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\15\Scurgere-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/pins/15/thumb/0_02_04_4f353f331fd637545370a5bbde8394aab4c31aff1c1e5dd5cdf855ed965692fc_full.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\15\thumb\0_02_04_4f353f331fd637545370a5bbde8394aab4c31aff1c1e5dd5cdf855ed965692fc_full-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/pins/16/default/pins_Pervazuri.png
+File Name: E:\sait practica\plastregal.md\pic\pins\16\default\pins_Pervazuri-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/18/default/0_02_05_bc872a6c59a7852eac2f508c5c409ec5ff1e2e0a861bea1129dc7b51c462733b_full.png
+File Name: E:\sait practica\plastregal.md\pic\pins\18\default\0_02_05_bc872a6c59a7852eac2f508c5c409ec5ff1e2e0a861bea1129dc7b51c462733b_full-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/18/thumb/saint_gobain_png_saint_gobain_glass_logo_235.png
+File Name: E:\sait practica\plastregal.md\pic\pins\18\thumb\saint_gobain_png_saint_gobain_glass_logo_235-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/19/default/0_02_05_faef37580463c60c2e63925a1e4829c8aec4fec57c426240c32cfde9a9e1a30f_full.png
+File Name: E:\sait practica\plastregal.md\pic\pins\19\default\0_02_05_faef37580463c60c2e63925a1e4829c8aec4fec57c426240c32cfde9a9e1a30f_full-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/19/thumb/0_02_04_4f353f331fd637545370a5bbde8394aab4c31aff1c1e5dd5cdf855ed965692fc_full.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\19\thumb\0_02_04_4f353f331fd637545370a5bbde8394aab4c31aff1c1e5dd5cdf855ed965692fc_full-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/pins/8/default/59b28b523cbda_70350.png
+File Name: E:\sait practica\plastregal.md\pic\pins\8\default\59b28b523cbda_70350-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/8/thumb/logo_hoppe.JPG
+File Name: E:\sait practica\plastregal.md\pic\pins\8\thumb\logo_hoppe-1.JPG
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/pins/9/default/maco4.png
+File Name: E:\sait practica\plastregal.md\pic\pins\9\default\maco4-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/pins/9/maco.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\9\maco-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/products/1/big/Fereastra.jpg
+File Name: E:\sait practica\plastregal.md\pic\products\1\big\Fereastra-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/products/1/logo.png
+File Name: E:\sait practica\plastregal.md\pic\products\1\logo-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/testimonials/13/53894684_3053655474660192_6343885486121025536_n.jpg
+File Name: E:\sait practica\plastregal.md\pic\testimonials\13\53894684_3053655474660192_6343885486121025536_n.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/testimonials/2/stratan.jpg
+File Name: E:\sait practica\plastregal.md\pic\testimonials\2\stratan.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/testimonials/3/Screen_Shot_2017_09_14_at_16.46.53.png
+File Name: E:\sait practica\plastregal.md\pic\testimonials\3\Screen_Shot_2017_09_14_at_16.46.53-1.png
+Content Type: image/png
+
+Uri: http://plastregal.md/pic/uploaded/type1.jpg
+File Name: E:\sait practica\plastregal.md\pic\uploaded\type1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/uploaded/type2.jpg
+File Name: E:\sait practica\plastregal.md\pic\uploaded\type2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/pic/uploaded/type3.jpg
+File Name: E:\sait practica\plastregal.md\pic\uploaded\type3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://plastregal.md/rom/produse-din-pvc/ferestre
+File Name: E:\sait practica\plastregal.md\rom\produse-din-pvc\ferestre-1.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/87507337
+File Name: E:\sait practica\plastregal.md\watch\87507337
+Content Type: image/gif
+
+Uri: https://plastregal.md/css/final.css?1123012515
+File Name: E:\sait practica\plastregal.md\css\final-3.css
+Content Type: text/css
+
+Uri: https://plastregal.md/img/logo.png
+File Name: E:\sait practica\plastregal.md\img\logo.png
+Content Type: image/png
+
+Uri: https://plastregal.md/img/logo_small.svg
+File Name: E:\sait practica\plastregal.md\img\logo_small.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/img/none.svg
+File Name: E:\sait practica\plastregal.md\img\none.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/img/snow.svg
+File Name: E:\sait practica\plastregal.md\img\snow.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/img/ventilation.svg
+File Name: E:\sait practica\plastregal.md\img\ventilation.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/img/volume1.svg
+File Name: E:\sait practica\plastregal.md\img\volume1.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/img/volume2.svg
+File Name: E:\sait practica\plastregal.md\img\volume2.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/img/volume3.svg
+File Name: E:\sait practica\plastregal.md\img\volume3.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/js/final.js?861535807
+File Name: E:\sait practica\plastregal.md\js\final-3.js
+Content Type: application/javascript
+
+Uri: https://plastregal.md/pic/advantages/1/life.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\1\life.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/pic/advantages/11/warranty_small.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\11\warranty_small.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/pic/advantages/12/protection2.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\12\protection2.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/pic/advantages/3/eco.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\3\eco.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/pic/advantages/7/protection2.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\7\protection2.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/pic/advantages/8/protection1.svg
+File Name: E:\sait practica\plastregal.md\pic\advantages\8\protection1.svg
+Content Type: image/svg+xml
+
+Uri: https://plastregal.md/pic/colors/228/0.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\228\0.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/230/2.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\230\2.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/237/9.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\237\9.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/238/10.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\238\10.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/243/15.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\243\15.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/245/17.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\245\17.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/246/18.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\246\18.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/249/21.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\249\21.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/251/23.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\251\23.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/252/24.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\252\24-1.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/253/25.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\253\25.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/254/26.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\254\26.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/255/27.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\255\27.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/256/28.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\256\28.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/257/29.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\257\29.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/260/32.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\260\32.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/261/33.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\261\33.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/262/34.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\262\34.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/263/35.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\263\35-1.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/265/37.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\265\37.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/266/38.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\266\38-1.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/270/42.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\270\42.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/271/43.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\271\43-1.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/273/45.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\273\45.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/275/47.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\275\47-1.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/279/51.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\279\51.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/280/52.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\280\52-1.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/282/54.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\282\54.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/285/57.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\285\57.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/colors/286/58.jpg
+File Name: E:\sait practica\plastregal.md\pic\colors\286\58.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/pins/10/default/kbe.png
+File Name: E:\sait practica\plastregal.md\pic\pins\10\default\kbe.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/10/kbe_logo.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\10\kbe_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/pins/11/default/media_share_0_02_04_4234092be25ce57fa7eb7fa503571c764a92828ff9b86de69ba3171f6dd02e95_59554830_44a2_44d6_9a87_eebc9ba12ccb.png
+File Name: E:\sait practica\plastregal.md\pic\pins\11\default\media_share_0_02_04_4234092be25ce57fa7eb7fa503571c764a92828ff9b86de69ba3171f6dd02e95_59554830_44a2_44d6_9a87_eebc9ba12ccb.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/11/thumb/Maco_logo.svg.png
+File Name: E:\sait practica\plastregal.md\pic\pins\11\thumb\Maco_logo.svg.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/14/default/media_share_0_02_04_48606480c113b4b297df3a1e384981c882f76c2239c46198b01aee5fc14cc42d_1a8d11b9_bb62_4437_8687_d9eb15c7f486.png
+File Name: E:\sait practica\plastregal.md\pic\pins\14\default\media_share_0_02_04_48606480c113b4b297df3a1e384981c882f76c2239c46198b01aee5fc14cc42d_1a8d11b9_bb62_4437_8687_d9eb15c7f486.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/14/thumb/kbe.png
+File Name: E:\sait practica\plastregal.md\pic\pins\14\thumb\kbe.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/15/Scurgere.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\15\Scurgere.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/pins/15/thumb/0_02_04_4f353f331fd637545370a5bbde8394aab4c31aff1c1e5dd5cdf855ed965692fc_full.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\15\thumb\0_02_04_4f353f331fd637545370a5bbde8394aab4c31aff1c1e5dd5cdf855ed965692fc_full.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/pins/16/default/pins_Pervazuri.png
+File Name: E:\sait practica\plastregal.md\pic\pins\16\default\pins_Pervazuri.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/18/default/0_02_05_bc872a6c59a7852eac2f508c5c409ec5ff1e2e0a861bea1129dc7b51c462733b_full.png
+File Name: E:\sait practica\plastregal.md\pic\pins\18\default\0_02_05_bc872a6c59a7852eac2f508c5c409ec5ff1e2e0a861bea1129dc7b51c462733b_full.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/18/thumb/saint_gobain_png_saint_gobain_glass_logo_235.png
+File Name: E:\sait practica\plastregal.md\pic\pins\18\thumb\saint_gobain_png_saint_gobain_glass_logo_235.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/19/default/0_02_05_faef37580463c60c2e63925a1e4829c8aec4fec57c426240c32cfde9a9e1a30f_full.png
+File Name: E:\sait practica\plastregal.md\pic\pins\19\default\0_02_05_faef37580463c60c2e63925a1e4829c8aec4fec57c426240c32cfde9a9e1a30f_full.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/19/thumb/0_02_04_4f353f331fd637545370a5bbde8394aab4c31aff1c1e5dd5cdf855ed965692fc_full.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\19\thumb\0_02_04_4f353f331fd637545370a5bbde8394aab4c31aff1c1e5dd5cdf855ed965692fc_full.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/pins/8/default/59b28b523cbda_70350.png
+File Name: E:\sait practica\plastregal.md\pic\pins\8\default\59b28b523cbda_70350.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/8/thumb/logo_hoppe.JPG
+File Name: E:\sait practica\plastregal.md\pic\pins\8\thumb\logo_hoppe.JPG
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/pins/9/default/maco4.png
+File Name: E:\sait practica\plastregal.md\pic\pins\9\default\maco4.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/pins/9/maco.jpg
+File Name: E:\sait practica\plastregal.md\pic\pins\9\maco.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/products/1/big/Fereastra.jpg
+File Name: E:\sait practica\plastregal.md\pic\products\1\big\Fereastra.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/products/1/logo.png
+File Name: E:\sait practica\plastregal.md\pic\products\1\logo.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/testimonials/15/60231504_10156617325848043_4179923208247443456_n.jpg
+File Name: E:\sait practica\plastregal.md\pic\testimonials\15\60231504_10156617325848043_4179923208247443456_n.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/testimonials/24/16178478_1735207540128018_4577360482800075442_o.jpg
+File Name: E:\sait practica\plastregal.md\pic\testimonials\24\16178478_1735207540128018_4577360482800075442_o.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/testimonials/3/Screen_Shot_2017_09_14_at_16.46.53.png
+File Name: E:\sait practica\plastregal.md\pic\testimonials\3\Screen_Shot_2017_09_14_at_16.46.53.png
+Content Type: image/png
+
+Uri: https://plastregal.md/pic/uploaded/type1.jpg
+File Name: E:\sait practica\plastregal.md\pic\uploaded\type1.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/uploaded/type2.jpg
+File Name: E:\sait practica\plastregal.md\pic\uploaded\type2.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/pic/uploaded/type3.jpg
+File Name: E:\sait practica\plastregal.md\pic\uploaded\type3.jpg
+Content Type: image/jpeg
+
+Uri: https://plastregal.md/rom/produse-din-pvc/ferestre
+File Name: E:\sait practica\plastregal.md\rom\produse-din-pvc\ferestre.html
+Content Type: text/html
+
+ait practica\plastregal.md\rom\produse-din-pvc\ferestre.html
+Content Type: text/html
+
